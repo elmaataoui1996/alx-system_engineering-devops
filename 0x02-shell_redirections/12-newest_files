@@ -1,3 +1,2 @@
 #!/bin/bash
-ls -lt --time=atime --reverse | head -n 10
-
+ls -t1 | head
